@@ -5,6 +5,10 @@ body {
   font-family: "Open Sans", sans-serif;
 }
 
+* {
+  box-sizing: border-box;
+}
+
 .container {
   max-width: 800px;
   width: 100%;
